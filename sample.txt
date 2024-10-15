@@ -1,1 +1,1 @@
-This is devops class
+This is azure class
